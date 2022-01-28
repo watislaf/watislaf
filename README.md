@@ -11,5 +11,5 @@
 <br />
 <br />
 
-[![HitCount](http://hits.dwyl.com/watislaf/watislaf.svg?style=flat-square)](http://hits.dwyl.com/watislaf/watislaf)
+[![HitCount](http://hits.dwyl.com/watislaf/watislaf.svg?style=flat)](http://hits.dwyl.com/watislaf/watislaf)
    
