@@ -13,10 +13,9 @@ jobs:
           github_token: ${{ secrets.TOKEN }}
           pr_label: "automated pr"
           pr_title: ${{github.event.head_commit.message}}
-
-        commit-message: Update report
-        committer: GitHub <noreply@github.com>
-        author: ${{ github.actor }} <${{ github.actor }}@users.noreply.github.com>
-        signoff: false
-        delete-branch: true
+          commit-message: Update report
+          committer: GitHub <noreply@github.com>
+          author: ${{ github.actor }} <${{ github.actor }}@users.noreply.github.com>
+          signoff: false
+          delete-branch: true
 
