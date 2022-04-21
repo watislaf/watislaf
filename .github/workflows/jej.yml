@@ -1,8 +1,5 @@
 name: Pull Request Action
-on:
-  push:
-    branches:
-      - *
+on: push
 jobs:
   create-pull-request:
     runs-on: ubuntu-latest
