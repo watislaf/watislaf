@@ -1,15 +1,19 @@
 
-<a href="https://www.linkedin.com/in/watislaf/">
-  <img align="left" alt="Jasneet Singh - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
-</a>
-<a href="https://www.instagram.com/watislaf/">
-  <img align="left" alt="Innovative Coder - Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
-</a>
-<a href="https://www.facebook.com/profile.php?id=100013410640050">
-  <img align="left" alt="Jasneet Singh - Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>
-</a>
-<br />
-<br />
+<p align="center">
+  <a href="https://github.com/watislaf">
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=watislaf&custom_title=GitHub%20Stats&show_icons=true&theme=github_dark&count_private=true&include_all_commits=true&hide_border=true" />
+  </a>
+</p> 
 
-[![HitCount](http://hits.dwyl.com/watislaf/watislaf.svg?style=flat)](http://hits.dwyl.com/watislaf/watislaf)
-   
+<p align="center">
+  <a href="https://github.com/watislaf">
+    <img src="https://img.shields.io/badge/github-watislaf-blue" />
+  </a>
+  <a href="https://github.com/watislaf">
+    <img src="https://enkahcw3aqjzlyp.m.pipedream.net/?key=gh-watislaf&label=visitors&color=grey&style=flat" />
+  </a> 
+  <a href="https://www.linkedin.com/in/watislaf">
+    <img src="https://img.shields.io/badge/linkedin-watislaf-ff69b4" />
+  </a> 
+
+
