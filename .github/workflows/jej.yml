@@ -15,7 +15,6 @@ jobs:
           pr_title: "${{github.event.head_commit.message}}"
           pr_body: "An automated PR*"
           pr_reviewer: "PiJayson<pijay888@gmail.com>,ranz7<rdkm.korepetycje@gmail.com>,watislaf<vladkozulin@mail.ru>"
-          pr_assignee: "PiJayson<pijay888@gmail.com>,ranz7<rdkm.korepetycje@gmail.com>,watislaf<vladkozulin@mail.ru>"
-          pr_milestone: "Milestone 1"
+          pr_assignee: "PiJayson<pijay888@gmail.com>,ranz7<rdkm.korepetycje@gmail.com>,watislaf<vladkozulin@mail.ru>" 
           pr_draft: true
           pr_allow_empty: true
