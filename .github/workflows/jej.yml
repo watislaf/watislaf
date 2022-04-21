@@ -1,4 +1,4 @@
-ame: Create Pull Request Example Command
+name: Create Pull Request Example Command
 on:
   push:
     branches:
