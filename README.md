@@ -9,10 +9,11 @@
   <a href="https://github.com/watislaf">
     <img src="https://img.shields.io/badge/github-watislaf-blue" />
   </a>
-  <a href="https://www.linkedin.com/in/watislaf">
-    <img src="https://img.shields.io/badge/linkedin-watislaf-ff69b4" />
-  </a> 
   <a href="https://github.com/watislaf">
     <img src="https://enkahcw3aqjzlyp.m.pipedream.net/?key=gh-watislaf&label=visitors&color=grey&style=flat" />
   </a> 
+  <a href="https://www.linkedin.com/in/watislaf">
+    <img src="https://img.shields.io/badge/linkedin-watislaf-ff69b4" />
+  </a> 
+
 
